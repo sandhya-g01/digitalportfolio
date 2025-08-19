@@ -18,6 +18,5 @@ This portfolio is built using **HTML, CSS, and a touch of JavaScript**.
 - **Deployment:** GitHub Pages 
 
 ## 📌 How to Run Locally
-   Clone the repository:
-   git clone https://github.com/your-username/portfolio.git
+   Live site: https://sandhya-g01.github.io/digitalportfolio/
 
